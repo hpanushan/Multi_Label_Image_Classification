@@ -1,0 +1,19 @@
+{"model_name": "my_classification_model", 
+"img_width": 350,
+"img_height":350,
+"classes" : ["abandoned car", "abandoned truck",
+       "abandoned wasteland", "building construction", "burst water pipe",
+       "customer service", "dead animal", "defective public transport",
+       "defective roadworks", "defective traffic light",
+       "defective transformer", "education", "education facilities",
+       "electricity", "flooding", "graffiti report", "illegal road block",
+       "irregular construction", "lack of healthcare in my locale",
+       "noise pollution", "obstruction of public road", "open sewage pits",
+       "pollution - streams, rivers, lakes", "poor healthcare facilities",
+       "poor mobile network service", "potholes - safety hazard",
+       "public locale is dirty", "rave", "resurfacing streets",
+       "risk of disease outbreak", "risk of fire outbreak - property",
+       "rubbish on the street", "security issue", "stagnant water pool",
+       "street light", "traffic jam", "waste management"]
+ 
+}
